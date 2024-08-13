@@ -1,0 +1,12 @@
+gradio
+gradio-pdf
+langchain-community
+langchain-openai
+langchain
+pyht
+numpy
+SpeechRecognition
+PyPDF2
+scipy
+shutil
+python-dotenv
